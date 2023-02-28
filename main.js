@@ -3,6 +3,7 @@ import "./style.css";
 import * as L from "leaflet";
 import "./node_modules/leaflet/dist/leaflet.css";
 import "leaflet-easybutton";
+import "./node_modules/select2/dist/js/select2.full";
 import "./node_modules/@geoman-io/leaflet-geoman-free/dist/leaflet-geoman.min.js";
 import "./node_modules/@geoman-io/leaflet-geoman-free/dist/leaflet-geoman.css";
 

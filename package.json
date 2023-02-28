@@ -25,6 +25,7 @@
     "leaflet-easybutton": "^2.4.0",
     "prettier": "^2.8.4",
     "remove": "^0.1.5",
+    "select2": "^4.1.0-rc.0",
     "sellect.js": "^1.0.0"
   }
 }
